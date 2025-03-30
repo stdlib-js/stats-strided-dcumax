@@ -335,7 +335,7 @@ int main( void ) {
 ## See Also
 
 -   <span class="package-name">[`@stdlib/stats-base/cumax`][@stdlib/stats/base/cumax]</span><span class="delimiter">: </span><span class="description">calculate the cumulative maximum of a strided array.</span>
--   <span class="package-name">[`@stdlib/stats-base/dcumin`][@stdlib/stats/base/dcumin]</span><span class="delimiter">: </span><span class="description">calculate the cumulative minimum of double-precision floating-point strided array elements.</span>
+-   <span class="package-name">[`@stdlib/stats-strided/dcumin`][@stdlib/stats/strided/dcumin]</span><span class="delimiter">: </span><span class="description">calculate the cumulative minimum of double-precision floating-point strided array elements.</span>
 -   <span class="package-name">[`@stdlib/stats-strided/scumax`][@stdlib/stats/strided/scumax]</span><span class="delimiter">: </span><span class="description">calculate the cumulative maximum of single-precision floating-point strided array elements.</span>
 
 </section>
@@ -422,7 +422,7 @@ Copyright &copy; 2016-2025. The Stdlib [Authors][stdlib-authors].
 
 [@stdlib/stats/base/cumax]: https://github.com/stdlib-js/stats-base-cumax
 
-[@stdlib/stats/base/dcumin]: https://github.com/stdlib-js/stats-base-dcumin
+[@stdlib/stats/strided/dcumin]: https://github.com/stdlib-js/stats-strided-dcumin
 
 [@stdlib/stats/strided/scumax]: https://github.com/stdlib-js/stats-strided-scumax
 
